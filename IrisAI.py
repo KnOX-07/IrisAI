@@ -9,7 +9,6 @@ import random
 #Initialize the text-to-speech engine
 engine = pyttsx3.init()
 
-#Set the voice properties
 voices = engine.getProperty('voices')
 engine.setProperty('voice', voices[1].id)
 
@@ -66,10 +65,10 @@ def main():
             webbrowser.open("https://www.youtube.com")
         elif 'open google' in query:
             webbrowser.open("https://www.google.com")
-        elif 'watch anime' in query:
-            webbrowser.open("https://animesuge.to/home")
+        elif 'open website' in query:
+            webbrowser.open("https://news.google.com/home?hl=en-IN&gl=IN&ceid=IN:en")    #Replace this with any website    
         elif 'play music' in query:
-            music_dir = 'C:\\Users\\YourUsername\\Music'
+            music_dir = 'C:\\Users\\YourUsername\\Music'    #Replce this with your music directory
             songs = os.listdir(music_dir)
             random_song = random.choice(songs)
             os.startfile(os.path.join(music_dir, random_song))
