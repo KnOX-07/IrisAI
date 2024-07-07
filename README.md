@@ -4,7 +4,7 @@
 
 # IrisAI
 
-IrisAI is a simple voice assistant designed to help you with various tasks such as searching Wikipedia, opening websites, playing music, and more. 
+IrisAI is a voice-activated personal assistant designed to enhance your productivity by performing various tasks through voice commands. With IrisAI, you can search Wikipedia, open popular websites, play music, and check the current time, all without lifting a finger. This project leverages Python's text-to-speech and speech recognition capabilities to provide a seamless and interactive user experience. Whether you're looking to fetch quick information, enjoy some tunes, or streamline your daily routine, IrisAI is here to assist you every step of the way.
 
 ## Features
 
