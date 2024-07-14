@@ -68,7 +68,7 @@ def main():
         elif 'open website' in query:
             webbrowser.open("https://news.google.com/home?hl=en-IN&gl=IN&ceid=IN:en")    #Replace this with any website    
         elif 'play music' in query:
-            music_dir = 'C:\\Users\\YourUsername\\Music'    #Replce this with your music directory
+            music_dir = 'C:\\Users\\YourUsername\\Music'    #Replace this with your music directory
             songs = os.listdir(music_dir)
             random_song = random.choice(songs)
             os.startfile(os.path.join(music_dir, random_song))
