@@ -42,6 +42,6 @@ python3 IrisAI.py
 ```
 
 ## Usage
-1. **Start the Assistant**: Run the irisai.py script.
+1. **Start the Assistant**: Run the IrisAI.py script.
 2. **Greet and Interact**: Begin by saying "Hello" or ask IrisAI to "Introduce yourself."
 3. **Execute Commands**: Use voice commands to search Wikipedia, open websites, play music, and check the time.
