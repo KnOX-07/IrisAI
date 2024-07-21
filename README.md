@@ -10,7 +10,7 @@ IrisAI is a voice-activated personal assistant designed to enhance your producti
 
 - **Voice Interaction**: Communicate with IrisAI using your voice.
 - **Wikipedia Search**: Get summaries from Wikipedia.
-- **Web Browsing**: Open popular websites like YouTube, Google, and AnimeSuge.
+- **Web Browsing**: Open popular websites like YouTube, Google, etc.
 - **Music Playback**: Play random songs from your music library.
 - **Time Announcement**: Get the current time.
 
